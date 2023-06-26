@@ -1,0 +1,4 @@
+Rencana Belajar Sheren :
+- DOM Javascript = biar lebih lanjar react native nya
+- React JS = biar lebih luas cakupannya
+- Next JS
