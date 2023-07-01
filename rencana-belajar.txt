@@ -1,5 +1,5 @@
 Rencana Belajar Sheren :
-- DOM Javascript = biar lebih lanjar react native aja
+- DOM Javascript 
 - React JS = biar lebih luas cakupannya
 - Angular JS
 - Node JS
